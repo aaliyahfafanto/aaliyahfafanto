@@ -498,23 +498,58 @@ a{text-decoration: none;}
   .vid2{
     position: absolute;
     left:14vw;
-    top:12vw;
+    top:10vw;
   }
 
   .vid3{
     position: absolute;
   
     right:5vw;
-    top:29vw;
+    top:22vw;
 
   }
+
+  .vid4{
+    position: absolute;
+    left:14vw;
+    top:49vw;
+  }
+
+  .vid5{
+    position: absolute;
+    left:14vw;
+    top:30vw;
+  }
+
+  .vid6{
+    position: absolute;
+  
+    right:5vw;
+    top:45vw;
+
+  }
+
+.pic7{
+    position: absolute;
+    right:5vw;
+    top:65vw;
+    width:25vw;
+    height:15vw;
+    margin-top: 3vw; 
+    border-top: 4px solid rgb(151, 148, 148);
+    border-left: 4px solid rgb(121, 118, 118);
+    border-bottom: 4px solid rgb(2, 2, 2);
+    border-right: 4px solid rgb(0, 0, 0);
+    border-radius: 2vw;
+    margin-bottom: 3vw;
+}
 
   .morevideos{
     width:3vw;
     height:3vw;
     position: absolute;
     left:15vw;
-    top:69vw;
+    top:99vw;
 
   }
 
