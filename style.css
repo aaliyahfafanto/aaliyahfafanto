@@ -55,7 +55,7 @@ body{
     position:fixed;
     top:0;
     left:20vw;
-    background:  url("Images/bgimg2.png");
+    background:  url("Images/bgi.jpeg");
     background-size: 50vw 100% ;
    background-repeat: no-repeat;
    /* cursor:url('cursor/cig-1.png'),auto; */
@@ -285,10 +285,10 @@ a{text-decoration: none;}
 .yt{
   
     width:25vw;
-    height:3vw;
-   
+    height:15vw;
+    border: solid red 3px;
      margin-top: 5vw;
-     margin-bottom: 1vw;
+     margin-bottom: 10vw;
      position: relative;
      right:8%
     
@@ -339,11 +339,11 @@ a{text-decoration: none;}
 }
 
 .btimg3{
-    width:33px;
-    height: 34px;
+    width:25px;
+    height: 29px;
     position: absolute;
     left:186px;
-    bottom:2px;
+    bottom:4px;
 
 }
 
@@ -390,7 +390,7 @@ a{text-decoration: none;}
 
 .r1{
     width:20vw;
-    height:auto;
+    height:383.3vw;
     position:relative;
     right:-5vw;
     top:2vw;
@@ -402,7 +402,7 @@ a{text-decoration: none;}
     border-radius: 2vw;
    background-repeat: repeat-y;
    box-shadow: 2px 2px 10px rgb(87, 86, 85);
-   animation: moveSlideshow 23s infinite linear alternate;
+   animation: moveSlideshow 20s infinite linear alternate;
    
 
     
@@ -422,7 +422,7 @@ a{text-decoration: none;}
 
 @keyframes moveSlideshow {
     100% { 
-      transform: translateY(-100%);  
+      transform: translateY(-280vw);  
     }
   }
 
@@ -449,7 +449,7 @@ a{text-decoration: none;}
     background-size: 80vw 100% ;
     background-repeat: no-repeat;
     overflow-y: auto;
-    border-bottom-right-radius:35vw;
+    border-bottom-right-radius:40vw;
     border-bottom: solid rgb(245, 244, 244) 2px;
     
 }
@@ -498,14 +498,14 @@ a{text-decoration: none;}
   .vid2{
     position: absolute;
     left:14vw;
-    top:10vw;
+    top:12vw;
   }
 
   .vid3{
     position: absolute;
   
     right:5vw;
-    top:22vw;
+    top:29vw;
 
   }
 
@@ -563,13 +563,12 @@ a{text-decoration: none;}
 
 
 
-
   /* MESSAGE PAGE */
 
 .message{
     
     width:80vw;
-    height:120vh;
+    height:100vh;
     position:fixed;
     top:0;
     left:20vw;
@@ -649,7 +648,7 @@ a{text-decoration: none;}
     position: absolute;
     top:18%;
      width:42.7vw;
-     height:21vw;
+     height:19vw;
      color: white;
      background-image: linear-gradient(to right, rgb(33, 32, 32),rgb(154, 148, 148) , rgb(191, 185, 185));
  }
@@ -671,7 +670,7 @@ a{text-decoration: none;}
      width:22vw;
      height:auto;
      color: black;
-     font-size: 1.2vw;
+     font-size: 1vw;
      overflow-y: auto;
      padding: 1vw;
      float:left;
@@ -797,7 +796,7 @@ a{text-decoration: none;}
         position: absolute;
         top:18%;
          width:57vw;
-         height:31vw;
+         height:29vw;
         
         }
       .bioimg{
@@ -811,7 +810,7 @@ a{text-decoration: none;}
       }
      
       .bio2{
-         height:27.5vw;
+         height:25.5vw;
          width:25.7vw;
          font-size: 1.6vw;
          padding: 1.1vw;
@@ -835,10 +834,4 @@ a{text-decoration: none;}
 
     
 }
-
-
-
-
-
-
 
